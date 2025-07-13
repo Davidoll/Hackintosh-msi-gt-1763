@@ -287,30 +287,16 @@
                 <dict>
                     <key>AAPL,ig-platform-id</key>
                     <data>BgAmCg==</data>
-                    <key>AAPL,slot-name</key>
-                    <string>Built In</string>
                     <key>device-id</key>
                     <data>EgQAAA==</data>
-                    <key>device_type</key>
-                    <string>VGA compatible controller</string>
-                    <key>enable-hdmi20</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-con1-alldata</key>
-                    <data>AQUSAAAIAACHAAAA/wAAAAEAAABAAAAA</data>
-                    <key>framebuffer-con1-enable</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-cursormem</key>
+                    <key>framebuffer-fbmem</key>
                     <data>AACQAA==</data>
-                    <key>framebuffer-memorycount</key>
-                    <data>AgAAAA==</data>
                     <key>framebuffer-patch-enable</key>
                     <data>AQAAAA==</data>
-                    <key>framebuffer-portcount</key>
-                    <data>AgAAAA==</data>
-                    <key>hda-gfx</key>
-                    <string>onboard-1</string>
-                    <key>model</key>
-                    <string>Intel HD Graphics 4600</string>
+                    <key>framebuffer-stolenmem</key>
+                    <data>AAAwAQ==</data>
+                    <key>framebuffer-unifiedmem</key>
+                    <data>AAAAgA==</data>
                 </dict>
             </dict>
             <key>Delete</key>
