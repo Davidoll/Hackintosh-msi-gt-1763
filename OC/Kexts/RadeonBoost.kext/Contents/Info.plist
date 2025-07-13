@@ -32,8 +32,6 @@
 			<string>AGPMEnabler</string>
 			<key>IOProviderClass</key>
 			<string>IOPlatformPluginDevice</string>
-			<key>model</key>
-			<string>iMacPro1,1 MacPro7,1 MacPro5,1 MacPro4,1</string>
 			<key>Machines</key>
 			<dict>
 				<key>MacPro4,1</key>
@@ -54,39 +52,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device7340</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>18</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device731f</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>18</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device687f</key>
+					<key>Vendor1002Device67DF</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -118,7 +84,39 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device67DF</key>
+					<key>Vendor1002Device687f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>18</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device731f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>18</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device7340</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -223,39 +221,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device7340</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>18</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device731f</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>18</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device687f</key>
+					<key>Vendor1002Device67DF</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -287,7 +253,39 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device67DF</key>
+					<key>Vendor1002Device687f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>18</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device731f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>18</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device7340</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -378,55 +376,7 @@
 				<dict>
 					<key>SlotControl</key>
 					<integer>1</integer>
-					<key>Vendor1002Device7310</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device686e</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device686d</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device6867</key>
+					<key>Vendor1002Device66a3</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -458,87 +408,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device66a3</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
 					<key>Vendor1002Device66af</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device7340</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device731f</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device687f</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device6863</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -570,10 +440,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-				</dict>
-				<key>iMacPro1,1</key>
-				<dict>
-					<key>Vendor1002Device6860</key>
+					<key>Vendor1002Device6863</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -605,7 +472,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device66af</key>
+					<key>Vendor1002Device686d</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -621,23 +488,7 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device7340</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>Vendor1002Device731f</key>
+					<key>Vendor1002Device686e</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -669,7 +520,58 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
-					<key>Vendor1002Device6863</key>
+					<key>Vendor1002Device7310</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device731f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device7340</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>iMacPro1,1</key>
+				<dict>
+					<key>Vendor1002Device66af</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
@@ -701,27 +603,234 @@
 						<key>min-power-state</key>
 						<integer>0</integer>
 					</dict>
+					<key>Vendor1002Device6860</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device6863</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device6867</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device687f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device731f</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
+					<key>Vendor1002Device7340</key>
+					<dict>
+						<key>AGDCEnabled</key>
+						<integer>1</integer>
+						<key>Heuristic</key>
+						<dict>
+							<key>ID</key>
+							<integer>-1</integer>
+						</dict>
+						<key>control-id</key>
+						<integer>17</integer>
+						<key>max-power-state</key>
+						<integer>15</integer>
+						<key>min-power-state</key>
+						<integer>0</integer>
+					</dict>
 				</dict>
 			</dict>
+			<key>model</key>
+			<string>iMacPro1,1 MacPro7,1 MacPro5,1 MacPro4,1</string>
 		</dict>
-		<key>Vega20Boost</key>
+		<key>Navi10Boost</key>
 		<dict>
-			<key>IOPCITunnelCompatible</key>
-			<true/>
-			<key>IOClass</key>
-			<string>AppleUSBMergeNub</string>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
-			<key>IOPCIMatch</key>
-			<string>0x66AF1002</string>
+			<key>IOClass</key>
+			<string>AppleUSBMergeNub</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x731F1002</string>
+			<key>IOPCITunnelCompatible</key>
+			<true/>
 			<key>IOProviderClass</key>
 			<string>IOPCIDevice</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
-				<key>PP_DiDtSQPatternWidthOverride</key>
-				<integer>14</integer>
+				<key>ATY,EFIVersionB</key>
+				<string>RadeonBoost</string>
+				<key>CFG_NO_PP</key>
+				<false/>
+				<key>CFG_PTPL2_CNT</key>
+				<integer>16</integer>
+				<key>CFG_PTPL2_MAX</key>
+				<integer>250</integer>
+				<key>CFG_PTPL2_MIN</key>
+				<integer>100</integer>
+				<key>Force_Load_FalconSMUFW</key>
+				<true/>
 				<key>PP_DiDtSQStallPatternOverride</key>
 				<integer>16383</integer>
+				<key>PP_WorkLoadPolicyMask</key>
+				<integer>32</integer>
+				<key>SMU_ActivityMonitorTable</key>
+				<data>
+				AAQABAIA6AMAAAEAAAAAAAAAAADQAQEAMP7+/wAAAAAA
+				BAAAAgDoAwAAAQAAAAAAAAAAANABAQA45v//AAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAkF
+				AAFkPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAA==
+				</data>
+			</dict>
+		</dict>
+		<key>Navi14Boost</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBMergeNub</string>
+			<key>IOClass</key>
+			<string>AppleUSBMergeNub</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x73401002</string>
+			<key>IOPCITunnelCompatible</key>
+			<true/>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>ATY,EFIVersionB</key>
+				<string>RadeonBoost</string>
+				<key>CFG_NO_PP</key>
+				<false/>
+				<key>CFG_PTPL2_CNT</key>
+				<integer>16</integer>
+				<key>CFG_PTPL2_MAX</key>
+				<integer>250</integer>
+				<key>CFG_PTPL2_MIN</key>
+				<integer>100</integer>
+				<key>Force_Load_FalconSMUFW</key>
+				<true/>
+				<key>PP_DiDtSQStallPatternOverride</key>
+				<integer>16383</integer>
+				<key>PP_WorkLoadPolicyMask</key>
+				<integer>32</integer>
+				<key>SMU_ActivityMonitorTable</key>
+				<data>
+				AAQABAIA6AMAAAEAAAAAAAAAAADQAQEAMP7+/wAAAAAA
+				BAAAAgDoAwAAAQAAAAAAAAAAANABAQA45v//AAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAkF
+				AAFkPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAA==
+				</data>
+			</dict>
+		</dict>
+		<key>PolarisBoost</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBMergeNub</string>
+			<key>IOClass</key>
+			<string>AppleUSBMergeNub</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x67DF1002</string>
+			<key>IOPCITunnelCompatible</key>
+			<true/>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>ATY,EFIVersionB</key>
+				<string>RadeonBoost</string>
+				<key>CFG,CFG_NVV</key>
+				<integer>2</integer>
+				<key>CFG,CFG_PTPL2_TBL</key>
+				<data>
+				ggAAAHwAAAB2AAAAcAAAAGoAAABkAAAAXgAAAFgAAABS
+				AAAATAAAAEYAAABAAAAAOgAAADQAAAAuAAAAKAAAAA==
+				</data>
+				<key>CFG,CFG_USE_CP2</key>
+				<true/>
+				<key>PP,PP_EnableLoadFalconSmcFirmware</key>
+				<integer>1</integer>
+				<key>PP,PP_Falcon_QuickTransition_Enable</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<key>Vega20Boost</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBMergeNub</string>
+			<key>IOClass</key>
+			<string>AppleUSBMergeNub</string>
+			<key>IOPCIMatch</key>
+			<string>0x66AF1002</string>
+			<key>IOPCITunnelCompatible</key>
+			<true/>
+			<key>IOProviderClass</key>
+			<string>IOPCIDevice</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>ATY,EFIVersionB</key>
+				<string>RadeonBoost</string>
 				<key>CFG_NVV</key>
 				<integer>2</integer>
 				<key>CFG_PTPL2_CNT</key>
@@ -730,110 +839,16 @@
 				<integer>300</integer>
 				<key>CFG_PTPL2_MIN</key>
 				<integer>90</integer>
+				<key>Force_Load_FalconSMUFW</key>
+				<true/>
+				<key>PP_DiDtSQPatternWidthOverride</key>
+				<integer>14</integer>
+				<key>PP_DiDtSQStallPatternOverride</key>
+				<integer>16383</integer>
+				<key>PP_WorkLoadPolicyMask</key>
+				<integer>1</integer>
 				<key>SMU_DisallowedFeatures</key>
 				<integer>0</integer>
-				<key>Force_Load_FalconSMUFW</key>
-				<true/>
-				<key>PP_WorkLoadPolicyMask</key>
-				<integer>1</integer>
-				<key>ATY,EFIVersionB</key>
-				<string>RadeonBoost</string>
-			</dict>
-		</dict>
-		<key>Navi14Boost</key>
-		<dict>
-			<key>IOPCITunnelCompatible</key>
-			<true/>
-			<key>IOClass</key>
-			<string>AppleUSBMergeNub</string>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleUSBMergeNub</string>
-			<key>IOPCIPrimaryMatch</key>
-			<string>0x73401002</string>
-			<key>IOProviderClass</key>
-			<string>IOPCIDevice</string>
-			<key>IOProviderMergeProperties</key>
-			<dict>
-				<key>CFG_NO_PP</key>
-				<false/>
-				<key>CFG_PTPL2_CNT</key>
-				<integer>16</integer>
-				<key>CFG_PTPL2_MAX</key>
-				<integer>250</integer>
-				<key>CFG_PTPL2_MIN</key>
-				<integer>100</integer>
-				<key>PP_DiDtSQStallPatternOverride</key>
-				<integer>16383</integer>
-				<key>SMU_ActivityMonitorTable</key>
-				<data>AAQABAIA6AMAAAEAAAAAAAAAAADQAQEAMP7+/wAAAAAABAAAAgDoAwAAAQAAAAAAAAAAANABAQA45v//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAkFAAFkPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</data>
-				<key>Force_Load_FalconSMUFW</key>
-				<false/>
-				<key>ATY,EFIVersionB</key>
-				<string>RadeonBoost</string>
-				<key>PP_WorkLoadPolicyMask</key>
-				<integer>32</integer>
-			</dict>
-		</dict>
-		<key>Navi10Boost</key>
-		<dict>
-			<key>IOPCITunnelCompatible</key>
-			<true/>
-			<key>IOClass</key>
-			<string>AppleUSBMergeNub</string>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleUSBMergeNub</string>
-			<key>IOPCIPrimaryMatch</key>
-			<string>0x731F1002</string>
-			<key>IOProviderClass</key>
-			<string>IOPCIDevice</string>
-			<key>IOProviderMergeProperties</key>
-			<dict>
-				<key>CFG_NO_PP</key>
-				<false/>
-				<key>CFG_PTPL2_CNT</key>
-				<integer>16</integer>
-				<key>CFG_PTPL2_MAX</key>
-				<integer>250</integer>
-				<key>CFG_PTPL2_MIN</key>
-				<integer>100</integer>
-				<key>PP_DiDtSQStallPatternOverride</key>
-				<integer>16383</integer>
-				<key>SMU_ActivityMonitorTable</key>
-				<data>AAQABAIA6AMAAAEAAAAAAAAAAADQAQEAMP7+/wAAAAAABAAAAgDoAwAAAQAAAAAAAAAAANABAQA45v//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAkFAAFkPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</data>
-				<key>Force_Load_FalconSMUFW</key>
-				<false/>
-				<key>ATY,EFIVersionB</key>
-				<string>RadeonBoost</string>
-				<key>PP_WorkLoadPolicyMask</key>
-				<integer>32</integer>
-			</dict>
-		</dict>
-		<key>PolarisBoost</key>
-		<dict>
-			<key>IOPCITunnelCompatible</key>
-			<true/>
-			<key>IOClass</key>
-			<string>AppleUSBMergeNub</string>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleUSBMergeNub</string>
-			<key>IOPCIPrimaryMatch</key>
-			<string>0x67DF1002</string>
-			<key>IOProviderClass</key>
-			<string>IOPCIDevice</string>
-			<key>IOProviderMergeProperties</key>
-			<dict>
-				<key>PP,PP_Falcon_QuickTransition_Enable</key>
-				<integer>1</integer>
-				<key>CFG,CFG_NVV</key>
-				<integer>2</integer>
-				<key>CFG,CFG_USE_CP2</key>
-				<true/>
-				<key>PP,PP_EnableLoadFalconSmcFirmware</key>
-				<integer>1</integer>
-				<key>CFG,CFG_PTPL2_TBL</key>
-				<data>ggAAAHwAAAB2AAAAcAAAAGoAAABkAAAAXgAAAFgAAABSAAAATAAAAEYAAABAAAAAOgAAADQAAAAuAAAAKAAAAA==</data>
-				<key>ATY,EFIVersionB</key>
-				<string>RadeonBoost</string>
 			</dict>
 		</dict>
 	</dict>
